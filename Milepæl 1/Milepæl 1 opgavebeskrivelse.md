@@ -18,8 +18,14 @@ Det i skriver i journalmappen er jeres uge til uge reflektioner, så dette Milep
 
 ### Komponentliste
 
+En hel komponentliste hvor i beskriver alle komponenter der bliver anvendt på jeres roverbase.
+
 ### Beskrivelse af basen
 
-### Udfordringer undervejs
+En kort gennemgang af hvad denne roverbase kan og hvordan i har bygget den.
 
-### Hvad er godt ved min rover
+Derudover skal i svare på følgende:
+
+* Er der blevet brugt structs, funktioner, classes, og til hvad? 
+* Hvilke libraries er blevet brugt og til hvad? (`#include` statements)
+* Hvordan har i anvendt metoder i har lært i undervisningen?
